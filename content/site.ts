@@ -36,4 +36,4 @@ export const siteConfig = {
     title: "Portfolio",
     description: "Portfolio of web development projects. Coming soon — check back for case studies and examples.",
   }
-};
+};//test comment
