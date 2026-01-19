@@ -83,7 +83,7 @@ export default function AboutPage() {
               <div className="text-sm text-gray-600">Uptime & reliability</div>
             </div>
             <div>
-              <div className="text-2xl font-bold text-indigo-600">4.8/5</div>
+              <div className="text-2xl font-bold text-indigo-600">4/5</div>
               <div className="text-sm text-gray-600">Avg. client satisfaction</div>
             </div>
           </div>
