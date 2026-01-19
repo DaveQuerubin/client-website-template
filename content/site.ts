@@ -30,7 +30,7 @@ export const siteConfig = {
   services: {
    title: "Services",
   description: "Static sites, API development, fintech integrations, AWS deployments, and more. Full-stack development services for modern businesses.",
-  keywords: ["web development", "API", "fintech", "AWS", "static sites"] 
+  keywords: ["web development", "API", "fintech", "AWS", "Static websites"] 
   },
   portfolio: {
     title: "Portfolio",
