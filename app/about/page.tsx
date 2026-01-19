@@ -43,21 +43,21 @@ export default function AboutPage() {
             </p>
 
             <ul className="mt-6 flex gap-4 flex-wrap">
-              <li className="bg-white rounded-lg p-4 shadow-sm flex-3 min-w-0">
-                <h3 className="font-semibold text-gray-900">Conversion-focused Design</h3>
-                <p className="text-sm text-gray-600 mt-1">Landing pages, A/B testing, and UX improvements focused on revenue.</p>
+              <li className="bg-white rounded-lg p-4 shadow-sm flex-1 min-w-0 overflow-hidden">
+                <h3 className="font-semibold text-gray-900 break-words">Conversion-focused Design</h3>
+                <p className="text-sm text-gray-600 mt-1 break-words">Landing pages, A/B testing, and UX improvements focused on revenue.</p>
               </li>
-              <li className="bg-white rounded-lg p-4 shadow-sm flex-3 min-w-0">
-                <h3 className="font-semibold text-gray-900">Secure Integrations</h3>
-                <p className="text-sm text-gray-600 mt-1">PCI-compliant payment flows, API integrations, and data privacy best practices.</p>
+              <li className="bg-white rounded-lg p-4 shadow-sm flex-1 min-w-0 overflow-hidden">
+                <h3 className="font-semibold text-gray-900 break-words">Secure Integrations</h3>
+                <p className="text-sm text-gray-600 mt-1 break-words">PCI-compliant payment flows, API integrations, and data privacy best practices.</p>
               </li>
-              <li className="bg-white rounded-lg p-4 shadow-sm flex-3 min-w-0">
-                <h3 className="font-semibold text-gray-900">Growth & Analytics</h3>
-                <p className="text-sm text-gray-600 mt-1">Implementation of event tracking, funnels and reporting to inform marketing decisions.</p>
+              <li className="bg-white rounded-lg p-4 shadow-sm flex-1 min-w-0 overflow-hidden">
+                <h3 className="font-semibold text-gray-900 break-words">Growth & Analytics</h3>
+                <p className="text-sm text-gray-600 mt-1 break-words">Implementation of event tracking, funnels and reporting to inform marketing decisions.</p>
               </li>
-              <li className="bg-white rounded-lg p-4 shadow-sm flex-3 min-w-0">
-                <h3 className="font-semibold text-gray-900">Performance Engineering</h3>
-                <p className="text-sm text-gray-600 mt-1">Fast, SEO-friendly sites with best practices for caching and asset optimization.</p>
+              <li className="bg-white rounded-lg p-4 shadow-sm flex-1 min-w-0 overflow-hidden">
+                <h3 className="font-semibold text-gray-900 break-words">Performance Engineering</h3>
+                <p className="text-sm text-gray-600 mt-1 break-words">Fast, SEO-friendly sites with best practices for caching and asset optimization.</p>
               </li>
             </ul>
           </div>
@@ -75,16 +75,16 @@ export default function AboutPage() {
         <section className="mt-14 bg-gradient-to-r from-white to-gray-50 rounded-lg p-8 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex gap-8">
             <div>
-              <div className="text-2xl font-bold text-indigo-600">+120%</div>
-              <div className="text-sm text-gray-600">Avg. conversion uplift</div>
+              <div className="text-2xl font-bold text-indigo-600 break-words">+120%</div>
+              <div className="text-sm text-gray-600 break-words">Avg. conversion uplift</div>
             </div>
             <div>
-              <div className="text-2xl font-bold text-indigo-600">99.99%</div>
-              <div className="text-sm text-gray-600">Uptime & reliability</div>
+              <div className="text-2xl font-bold text-indigo-600 break-words">99.99%</div>
+              <div className="text-sm text-gray-600 break-words">Uptime & reliability</div>
             </div>
             <div>
-              <div className="text-2xl font-bold text-indigo-600">4/5</div>
-              <div className="text-sm text-gray-600">Avg. client satisfaction</div>
+              <div className="text-2xl font-bold text-indigo-600 break-words">4/5</div>
+              <div className="text-sm text-gray-600 break-words">Avg. client satisfaction</div>
             </div>
           </div>
 
