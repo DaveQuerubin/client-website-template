@@ -6,8 +6,8 @@ export const siteConfig = {
   },
 
   contact: {
-    email: "ecpaydave@gmail.com",
-    phone: "+639123456789",
+    email: "davequerubin27@gmail.com",
+    phone: "+639xxxxxxxxx",
     fromEmail: "Website Contact <onboarding@resend.dev>",
     title: "Contact",
     description: "Get in touch to discuss your project. Let's build something great together.",
@@ -36,4 +36,4 @@ export const siteConfig = {
     title: "Portfolio",
     description: "Portfolio of web development projects. Coming soon — check back for case studies and examples.",
   }
-};//test comment
+};
