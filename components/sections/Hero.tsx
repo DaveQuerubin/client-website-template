@@ -67,7 +67,8 @@ export default function Hero() {
     <section className="relative min-h-[90vh] bg-gradient-to-br from-slate-50 to-blue-50 overflow-hidden">
       <div className="text-center mb-16">
        <div className="inline-block bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-2 rounded-full font-bold text-sm mb-4 ">
-              Z-Pattern Layout Option
+              Layout Option - A
+              {/* this is Z pattern */}
        </div></div>
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
@@ -183,7 +184,8 @@ export default function Hero() {
           {/* F-Pattern Header - Horizontal across top */}
           <div className="text-center mb-16">
             <div className="inline-block bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-2 rounded-full font-bold text-sm mb-4">
-              F-Pattern Layout Option
+              {/* F-Pattern Layout Option */}
+              Layout Option - B
             </div>
             <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-4">
               Traditional Reading Flow Design
@@ -279,7 +281,8 @@ export default function Hero() {
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <div className="inline-block bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-bold text-sm mb-4">
-              Dynamic Portfolio Showcase
+              {/* Dynamic Portfolio Showcase */}
+              Layout Option - C
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
               Our Work in Motion

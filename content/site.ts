@@ -1,7 +1,7 @@
 export const siteConfig = {
   brand: {
     name: "DQ Web Studio",
-    tagline: "Kailangan mo ba ng portfolio website? Kaya ko yan!",
+    tagline: "Kailangan mo ba ng portfolio website? Let's do it!",
     logo: "/images/logo.svg",
   },
 
@@ -20,7 +20,7 @@ export const siteConfig = {
     cta: "Magpa-Quote ka na.",
   },
   seo: {
-    title: "Querubin Web Studio — Modern Websites for Businesses",
+    title: "DQ Web Studio — Websites for Businesses",
     description: "We design and build fast, secure, and scalable websites for businesses that want results.",
   },
     about: {

@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
-  <rect width="120" height="40" rx="6" fill="#111827"/>
-  <text x="60" y="25" font-family="Inter, Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Querubin Web</text>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="16" fill="#0A192F"></rect>
+  <path d="M40 30H65C78 30 88 40 88 60C88 80 78 90 65 90H40V30Z" stroke="white" stroke-width="6" fill="none"></path>
+  <circle cx="65" cy="60" r="18" stroke="white" stroke-width="6"></circle>
+  <line x1="78" y1="78" x2="92" y2="92" stroke="white" stroke-width="6"></line>
 </svg>

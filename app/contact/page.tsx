@@ -52,7 +52,7 @@ export default function ContactPage() {
           </div>
 
           <div className="rounded-lg overflow-hidden shadow-lg">
-            <Image src="/images/contact-hero.svg" alt="Contact hero" width={800} height={520} className="w-full h-auto object-cover" />
+            <Image src="/images/contact.png" alt="Contact hero" width={800} height={520} className="w-full h-auto object-cover" />
           </div>
         </section>
 
